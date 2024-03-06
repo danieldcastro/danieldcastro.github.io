@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://danieldcastro.github.io/trashparty/</loc>
-    <lastmod>2024-03-03</lastmod>
+    <lastmod>2024-03-06</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
+  </url>
+   <url>
+    <loc>https://danieldcastro.github.io/trashparty/privacy_policy.html</loc>
+    <lastmod>2024-03-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
   </url>
   <!-- Adicione mais URLs conforme necessário -->
 </urlset>
