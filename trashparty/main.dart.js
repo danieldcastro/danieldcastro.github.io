@@ -61938,7 +61938,7 @@ A.Qd.prototype={
 $0(){var s=0,r=A.P(t.H)
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.U(A.xO(A.alk().i(0)+"privacy_policy.html",B.dq),$async$$0)
+return A.U(A.xO(A.alk().i(0)+"/privacy_policy.html",B.dq),$async$$0)
 case 2:return A.N(null,r)}})
 return A.O($async$$0,r)},
 $S:9}
